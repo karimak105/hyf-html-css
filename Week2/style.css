@@ -78,7 +78,7 @@ section {
     #grid-flex .grid-item{
         width: 25%;
     }
-    #grid-floats .grid-item:nth-child(4n+1){
+    #grid-floats .grid-item:nth-child(6n+1){
         clear:none;
     }
     #grid-floats .grid-item:nth-child(9){
